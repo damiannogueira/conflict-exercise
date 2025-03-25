@@ -5,5 +5,5 @@ Este es un cambio en la main branch.
 
 Este es un cambio en la feature branch.
 
-Aquí solucioné el conflicto del merge.
+Aquí solucioné el conflicto del merge..
 
